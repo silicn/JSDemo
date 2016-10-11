@@ -1,0 +1,21 @@
+h1{
+	text-align: center;
+	color: red;
+	font-size: 25px;
+}
+
+div {
+
+}
+
+img {
+	height: 250px;
+	width: 250px;
+}
+
+.content_p{
+	font-size: 18px;
+	color: black;
+	line-height: 25px;
+	text-indent: 2em;
+}
