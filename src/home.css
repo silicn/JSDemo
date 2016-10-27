@@ -5,7 +5,12 @@ h1{
 }
 
 div {
-
+	height: 100px;
+	widows: 100px;
+	text-align: center;
+	line-height: 100px;
+	border: 1px solid red;
+	float: right
 }
 
 img {
